@@ -2,7 +2,7 @@
 The source code of the paper 
 Dependencies:
 
-Python 3.6.4
+Python 3.6.4//
 Torch
 Numpy
 Matplotlib
